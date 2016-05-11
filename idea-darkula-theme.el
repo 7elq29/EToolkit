@@ -1,0 +1,1 @@
+/Users/Ken/.emacs.d/elpa/idea-darkula-theme-20160416.1603/idea-darkula-theme.el
